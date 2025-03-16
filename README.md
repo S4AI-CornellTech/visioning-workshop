@@ -41,4 +41,4 @@ For any further questions please contact <ugupta@cornell.edu> .
 
 |  |  Organizer |
 | ------------- | :------------- |
-| <img src="imgs/udit_gupta.jpeg" width=500 align=right> | **Udit Gupta** (Cornell Tech) is an Assistant Professor in Electrical and Computer Engineering at Cornell Tech. His research spans across sustainable computing, computer architecture, systems, and machine learning. Generally, he is interested in discovering and demonstrating new ways to design systems and hardware to improve the performance, efficiency, and environmental sustainability of emerging applications. |
+| <img src="udit_gupta.jpeg" width=500 align=right> | **Udit Gupta** (Cornell Tech) is an Assistant Professor in Electrical and Computer Engineering at Cornell Tech. His research spans across sustainable computing, computer architecture, systems, and machine learning. Generally, he is interested in discovering and demonstrating new ways to design systems and hardware to improve the performance, efficiency, and environmental sustainability of emerging applications. |
