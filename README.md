@@ -14,20 +14,23 @@ layout: default
 
 | Time            | Speaker             | Title                                       | Affiliation                         |
 |----------------|---------------------|---------------------------------------------|--------------------------------------|
-| <span style="background-color: #f0f0f0">8:30 - 9:00am</span>  | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
-| 9:00 - 9:45am  | Udit Gupta          | Welcome Message to Workshop                |                                      |
-| 9:45 - 10:30am | Lieven Eeckhout     |                                             |                                      |
-| <span style="background-color: #f0f0f0">10:30 - 11:00am</span> | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
+| 8:30 - 9:00am  |                     | Coffee                                      |                                      |
+| 9:00 - 9:45am  | Udit Gupta          | Welcome Message to Workshop                |   Cornell Tech                        |
+| 9:45 - 10:30am | Lieven Eeckhout     |                                             |   Ghent University                   |
+| 10:30 - 11:00am|                     | Coffee                                      |                                      |
 | 11:00 - 11:45am| Shaolei Ren         | What Are We Overlooking for Sustainable Computing? | University of California, Riverside |
-| 11:45 - 12:30pm| Anne-Laure Ligozat  |                                             |                                      |
-| <span style="background-color: #f0f0f0">12:30 - 2:00pm</span> | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Lunch</span>                                       | <span style="background-color: #f0f0f0"></span> |
+| 11:45 - 12:30pm| Anne-Laure Ligozat  |                                             |   ENSIIE and LISN                    |
+| 12:30 - 2:00pm |                     | Lunch                                       |                                      |
 | 2:00 - 2:45pm  | Maxine Pelcat       |                                             |                                      |
 | 2:45 - 3:30pm  | Akshitha Sriraman   |                                             | Remote talk                          |
-| <span style="background-color: #f0f0f0">3:30 - 4:00pm</span>  | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
+| 3:30 - 4:00pm  |                     | Coffee                                      |                                      |
 | 4:00 - 4:45pm  | Babak Falsafi       |                                             | EcoCloud                             |
 | 4:45 - 5:30pm  | David Patterson     |                                             | Remote talk                          |
 | 5:30 - 5:45pm  | Udit Gupta          | Closing Remarks                            |                                      |
 
+---
+
+For more details on speaker bios and topics, please refer to the conference website.
 
 ## Contact us
 For any further questions please contact <ugupta@cornell.edu> .
