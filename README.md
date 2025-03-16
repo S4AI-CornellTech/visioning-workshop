@@ -14,24 +14,19 @@ layout: default
 
 | Time            | Speaker             | Title                                       | Affiliation                         |
 |----------------|---------------------|---------------------------------------------|--------------------------------------|
-| 8:30 - 9:00am  |                     | Coffee                                      |                                      |
+| <span style="background-color: #f0f0f0">8:30 - 9:00am</span>  | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
 | 9:00 - 9:45am  | Udit Gupta          | Welcome Message to Workshop                |                                      |
 | 9:45 - 10:30am | Lieven Eeckhout     |                                             |                                      |
-| 10:30 - 11:00am|                     | Coffee                                      |                                      |
+| <span style="background-color: #f0f0f0">10:30 - 11:00am</span> | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
 | 11:00 - 11:45am| Shaolei Ren         | What Are We Overlooking for Sustainable Computing? | University of California, Riverside |
 | 11:45 - 12:30pm| Anne-Laure Ligozat  |                                             |                                      |
-| 12:30 - 2:00pm |                     | Lunch                                       |                                      |
+| <span style="background-color: #f0f0f0">12:30 - 2:00pm</span> | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Lunch</span>                                       | <span style="background-color: #f0f0f0"></span> |
 | 2:00 - 2:45pm  | Maxine Pelcat       |                                             |                                      |
 | 2:45 - 3:30pm  | Akshitha Sriraman   |                                             | Remote talk                          |
-| 3:30 - 4:00pm  |                     | Coffee                                      |                                      |
+| <span style="background-color: #f0f0f0">3:30 - 4:00pm</span>  | <span style="background-color: #f0f0f0"></span> | <span style="background-color: #f0f0f0">Coffee</span>                                      | <span style="background-color: #f0f0f0"></span> |
 | 4:00 - 4:45pm  | Babak Falsafi       |                                             | EcoCloud                             |
 | 4:45 - 5:30pm  | David Patterson     |                                             | Remote talk                          |
 | 5:30 - 5:45pm  | Udit Gupta          | Closing Remarks                            |                                      |
-
----
-
-For more details on speaker bios and topics, please refer to the conference website.
-
 
 
 ## Contact us
