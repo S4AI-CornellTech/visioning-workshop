@@ -15,17 +15,17 @@ layout: default
 | Time            | Speaker             | Title                                       | Affiliation                         |
 |----------------|---------------------|---------------------------------------------|--------------------------------------|
 | 8:30 - 9:00am  |                     | Coffee                                      |                                      |
-| 9:00 - 9:45am  | Udit Gupta          | Welcome Message to Workshop                |   Cornell Tech                        |
+| 9:00 - 9:45am  | Udit Gupta          | Sustainable Computing: Implications, Opportunities, and Challenges                |   Cornell Tech                        |
 | 9:45 - 10:30am | Lieven Eeckhout     |                                             |   Ghent University                   |
 | 10:30 - 11:00am|                     | Coffee                                      |                                      |
 | 11:00 - 11:45am| Shaolei Ren         | What Are We Overlooking for Sustainable Computing? | University of California, Riverside |
 | 11:45 - 12:30pm| Anne-Laure Ligozat  |                                             |   ENSIIE and LISN                    |
 | 12:30 - 2:00pm |                     | Lunch                                       |                                      |
-| 2:00 - 2:45pm  | Maxine Pelcat       |                                             |                                      |
-| 2:45 - 3:30pm  | Akshitha Sriraman   |                                             | Remote talk                          |
+| 2:00 - 2:45pm  | Maxine Pelcat       |                                             |  National Institute of Applied Sciences (Rennes, France)                                    |
+| 2:45 - 3:30pm  | Akshitha Sriraman   |                                             | Carnegie Mellon University (Remote talk)                          |
 | 3:30 - 4:00pm  |                     | Coffee                                      |                                      |
-| 4:00 - 4:45pm  | Babak Falsafi       |                                             | EcoCloud                             |
-| 4:45 - 5:30pm  | David Patterson     |                                             | Remote talk                          |
+| 4:00 - 4:45pm  | Babak Falsafi       |                                             | EPFL, EcoCloud                             |
+| 4:45 - 5:30pm  | David Patterson     |                                             | UC Berkeley, Google (Remote talk)                          |
 | 5:30 - 5:45pm  | Udit Gupta          | Closing Remarks                            |                                      |
 
 ---
