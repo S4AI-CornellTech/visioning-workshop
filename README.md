@@ -5,12 +5,7 @@ As computing permeates every aspect of modern life—spanning data centers, mobi
 
 Beyond energy and carbon emissions, computing’s footprint extends to water-intensive semiconductor fabrication, rare metal extraction, and the mounting issue of electronic waste. Moreover, carbon emissions are shifting from operational energy consumption to hardware manufacturing, driven by efficiency optimizations and increasing fabrication complexity. Sustainable computing demands holistic solutions—optimizing across hardware life cycles, system design, and energy sources—to mitigate its environmental toll while meeting future computational needs.
 
----
-title: "Conference Schedule"
-layout: default
----
-
-# Conference Schedule
+## Conference Schedule
 
 | Time            | Speaker             | Title                                       | Affiliation                         |
 |----------------|---------------------|---------------------------------------------|--------------------------------------|
