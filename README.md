@@ -39,8 +39,8 @@ For any further questions please contact <ugupta@cornell.edu> .
 
 |  |  Organizer |
 | ------------- | :------------- |
-| <img src="udit_gupta.jpeg" width=500 align=right> | **Udit Gupta** (Cornell Tech) is an Assistant Professor in Electrical and Computer Engineering at Cornell Tech. |
-| <img src="josiah.jpeg" width=500 align=right> | **Josiah Hester** (Georgia Tech) is an Associate Professor of Interactive Computing and Computer Science at Georgia Tech. |
-| <img src="bobbie.jpeg" width=500 align=right> | **Bobbie Manne** (AMD) is Senior Fellow at AMD. |
-| <img src="natalie.jpeg" width=500 align=right> | **Natalie Enright Jerger** (University of Toronto) is Professor of Electrical and Computer Engineering at University of Toronto. |
+| <img src="udit_gupta.jpeg" width=200 align=right> | **Udit Gupta** (Cornell Tech) is an Assistant Professor in Electrical and Computer Engineering at Cornell Tech. |
+| <img src="josiah.jpg" width=200 align=right> | **Josiah Hester** (Georgia Tech) is an Associate Professor of Interactive Computing and Computer Science at Georgia Tech. |
+| <img src="bobbie.jpeg" width=200 align=right> | **Bobbie Manne** (AMD) is Senior Fellow at AMD. |
+| <img src="natalie.jpg" width=200 align=right> | **Natalie Enright Jerger** (University of Toronto) is Professor of Electrical and Computer Engineering at University of Toronto. |
 
