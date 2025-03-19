@@ -16,7 +16,7 @@ Beyond energy and carbon emissions, computing’s footprint extends to water-int
 | 11:00 - 11:45am| Shaolei Ren         | What Are We Overlooking for Sustainable Computing? | University of California, Riverside |
 | 11:45 - 12:30pm| Anne-Laure Ligozat  | How Green is AI? Measuring AI's environmental footprint                                            |   ENSIIE and LISN                    |
 | 12:30 - 2:00pm |                     | Lunch                                       |                                      |
-| 2:00 - 2:45pm  | Maxine Pelcat       | The Pivotal Role of Circular Economy in Sustainable Electronics                                            |  National Institute of Applied Sciences (Rennes, France)                                    |
+| 2:00 - 2:45pm  | Maxime Pelcat       | The Pivotal Role of Circular Economy in Sustainable Electronics                                            |  National Institute of Applied Sciences (Rennes, France)                                    |
 | 2:45 - 3:30pm  | Akshitha Sriraman   | TBA                                            | Carnegie Mellon University (Remote talk)                          |
 | 3:30 - 4:00pm  |                     | Coffee                                      |                                      |
 | 4:00 - 4:45pm  | Babak Falsafi       | Sustainibility in Datacenters: Measured not Guessed                                            | EPFL, EcoCloud, Swiss Datacenter Efficiency Association                             |
