@@ -18,7 +18,7 @@ Beyond energy and carbon emissions, computing’s footprint extends to water-int
 | 12:30 - 2:00pm |                     | Lunch                                       |                                      |
 | 2:00 - 2:30pm  | Irene Kitsara       | TBA                                            |  IEEE                                     |
 | 2:30 - 3:00pm  | Anne-Laure Ligozat  | How Green is AI? Measuring AI's environmental footprint                                            |   ENSIIE and LISN (Remote talk + Moderated Q&A)                    |
-| 3:00 - 3:30pm  | Akshitha Sriraman   | TBA                                            | Carnegie Mellon University (Remote talk + Moderated Q&A)                          |
+| 3:00 - 3:30pm  | Akshitha Sriraman   | Enabling Sustainable Data Center Systems   | Carnegie Mellon University (Remote talk + Moderated Q&A)                          |
 | 3:30 - 4:00pm  |                     | Coffee                                      |                                      |
 | 4:00 - 4:45pm  | Babak Falsafi       | Sustainibility in Datacenters: Measured not Guessed                                            | EPFL, EcoCloud, Swiss Datacenter Efficiency Association                             |
 | 4:45 - 5:30pm  | David Patterson     | How to Give AI a Bad Carbon Footprint                                            | UC Berkeley, Google (Remote talk)                          |
